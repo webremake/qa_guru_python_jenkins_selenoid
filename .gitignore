@@ -1,6 +1,9 @@
 .env
 .idea
+**/allure-report/
 **/allure-results/
+
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
